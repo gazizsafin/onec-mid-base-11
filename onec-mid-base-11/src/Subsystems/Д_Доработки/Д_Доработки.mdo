@@ -15,4 +15,5 @@
   <content>Catalog.Контрагенты</content>
   <content>Catalog.net_КонтактноеЛицо</content>
   <content>Catalog.net_Должности</content>
+  <content>CommonModule.net_РаботаСФормами</content>
 </mdclass:Subsystem>
