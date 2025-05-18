@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e6914970-482f-466e-a114-ea8a39c31927">
+  <name>Д_Доработки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Доработки</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ЗаказПокупателя</content>
+  <content>Document.ОплатаОтПокупателя</content>
+  <content>Document.ОплатаПоставщику</content>
+  <content>Document.ПоступлениеТоваровУслуг</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>Catalog.Контрагенты</content>
+  <content>Catalog.net_КонтактноеЛицо</content>
+  <content>Catalog.net_Должности</content>
+  <content>CommonModule.net_РаботаСФормами</content>
+</mdclass:Subsystem>
